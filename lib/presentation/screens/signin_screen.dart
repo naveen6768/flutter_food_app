@@ -32,6 +32,7 @@ class SignInScreen extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: [
                     const Text('Sign in to Continue to Login'),
+                    const Text('Sign in to Continue to Signup'),
                     Text(
                       'Vegi',
                       style: TextStyle(
