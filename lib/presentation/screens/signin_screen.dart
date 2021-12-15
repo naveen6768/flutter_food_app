@@ -31,7 +31,7 @@ class SignInScreen extends StatelessWidget {
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: [
-                    const Text('Sign in to Continue to Login'),
+                    const Text('Sign in  with new branch'),
                     Text(
                       'Vegi',
                       style: TextStyle(
