@@ -28,6 +28,9 @@ class MyApp extends StatelessWidget {
           primarySwatch: Colors.blue,
         ),
         home: SignInScreen(),
+        routes: {
+          //routes will be added here
+        },
       ),
     );
   }
