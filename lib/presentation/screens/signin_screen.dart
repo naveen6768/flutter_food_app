@@ -26,7 +26,7 @@ class SignInScreen extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               Container(
-                height: 400.h,
+                height: 500.h,
                 width: 1.sw,
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
